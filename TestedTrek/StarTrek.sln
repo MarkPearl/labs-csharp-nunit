@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTrekWebGadgets", "StarTrekWebGadgets\StarTrekWebGadgets.csproj", "{D3BAF628-8D76-4665-88C6-EC0A18F9EAF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTrek", "StarTrek\StarTrek.csproj", "{644AB580-E1E7-4E0B-A925-E36F18EFB2BB}"
